@@ -1,0 +1,25 @@
+LocalZero: Prinzipien und Annahmen
+==================================
+
+Dieses Dokument gibt einen Überblick über die wesentlichen Prinzipien, die den Berechnungen in LocalZero, der Version 2 des Klimastadtplangenerators von German Zero, zugrunde liegen.  
+ 
+
+1. Bilanzierungsgrundlagen 
+
+Basisjahr ist 2018, da die Daten für Folgejahre noch teilweise unvollständig sind. Für dieses Jahr werden die CO2eq-Emissionen aus dem Einsatz der diversen Primärenergieträger in den verschiedenen Sektoren berechnet. Referenz ist dabei der Nationale Inventarbericht von 2020 [NIR 2020]. 
+ 
+
+2. Von Bundeswerten auf Bundesländer, Landkreise und Kommunen 
+
+Grundsätzlich gehen wir von bundesweiten Daten aus (z.B. Endenergieverbräuche), die dann auf die gewünschte Gebietskörperschaft heruntergebrochen werden. Das kann je nach Anwendung z.B. über die Einwohnerzahl oder Flächenanteile geschehen. Für einige Sektoren werden auch direkt Daten auf Gemeindeebene genutzt (z.B. für Gebäude, Wohnungen, Flächen, EE-Anlagen oder Verkehrsleistung).   
+
+3. Zielszenarien 
+
+Der erstellte Klimastadtplan erreicht Klimaneutralität, d.h. Null Netto-Emission von CO2eq, am Ende des frei wählbaren Zieljahrs (z.B. 2035). Verbleibende Restemissionen von Treibhausgasen werden durch aktiven CO2-Entzug, z.B. über die Herstellung von Pflanzenkohle, kompensiert. Soweit möglich werden die Zielszenarien für die verschiedenen Sektoren aus Studien übernommen, z.B. aus der Studie des Umweltbundesamts „Wege in eine ressourcenschonende Klimaneutralität“  [RESCUE2019], die ggf. auf das Zieljahr angepasst werden.  
+
+ 
+
+ 
+ 
+
+ 

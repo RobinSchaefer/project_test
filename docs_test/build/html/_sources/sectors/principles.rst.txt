@@ -1,0 +1,13 @@
+LocalZero: Prinzipien und Annahmen 
+==================================
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
